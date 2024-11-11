@@ -19,6 +19,7 @@
     <td><a href="https://github.com/link">Mohammad Faried Rahmat, S.ST., M.Tr.T</a></td>
   </tr>
 </table>
+
 # GRAFIKA KOMPUTER
 ### List Tugas
 |  |  |  |
